@@ -1,7 +1,7 @@
 
 # Portfolio Maker Website
 
-This project is a Portfolio Maker website developed using Python, HTML, CSS, and Flask. It allows users to create personalized portfolio pages by filling out forms with their details and uploading images. With multiple design templates to choose from, users can easily create professional-looking portfolios. The project has been deployed both on Heroku and AWS EC2 using Docker, ensuring scalability and reliability.
+This project is a Portfolio Maker website developed using Python, HTML, CSS, and Flask. It allows users to create personalized portfolio pages by filling out forms with their details and uploading images. With multiple design templates to choose from, users can easily create professional-looking portfolios. The project has been deployed on AWS EC2 using Docker, ensuring scalability and reliability.
 
 
 
@@ -31,10 +31,6 @@ This project is a Portfolio Maker website developed using Python, HTML, CSS, and
 
 ## Deployement
 The project has been successfully deployed on both Heroku and AWS EC2 using Docker. This section provides instructions for deploying the application on both platforms. 
-
-**Heroku Deployment**  
-- Seamless integration with GitHub for continuous deployment.
-- Environment configuration using Procfile and requirements.txt.
 
 **AWS EC2 Deployment with Docker**  
 - Dockerized application for consistent and isolated environment.
