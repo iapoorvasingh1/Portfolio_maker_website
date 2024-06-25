@@ -24,7 +24,7 @@ This project is a Portfolio Maker website developed using Python, HTML, CSS, and
 
 **Backend:** Python, Flask
 
-**Deployment:** Heroku, AWS EC2 using Docker
+**Deployment:** AWS EC2 using Docker
 
 **Scheduling:** Schedule library for automated tasks
 
